@@ -1,0 +1,21 @@
+{
+    "icon_families": {
+      "icon_A": {
+        "internal": "❀",
+        "leaf": "◇"
+      },
+      "icon_B": {
+        "internal": "□",
+        "leaf": "✩"
+      },
+      "icon_C": {
+        "internal": "★",
+        "leaf": "◆"
+      },
+      "icon_D": {
+        "internal": "✿",
+        "leaf": "✦"
+      }
+    }
+}
+  
