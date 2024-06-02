@@ -15,4 +15,6 @@ fje -f example.json -s tree -i icon_B
 
 fje -f example.json -s rectangle -i icon_A
 fje -f example.json -s rectangle -i icon_B
+
+# 可以运行FJE.py文件
 ```
